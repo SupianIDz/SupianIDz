@@ -8,7 +8,6 @@ My main focus is backend development, API design, and system architecture, with 
 ## 💼 Work Status
 
 - ✅ **Open to work** (remote / on-site / contract)
-- 🏢 **Currently working at SIOPEN** — a marketplace platform for government goods & services procurement.
 
 ---
 
