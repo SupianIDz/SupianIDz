@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">👋 Hi, I'm Supian M</h1>
   <p>
-    <strong>Backend Developer | System Architect | Open Source Advocate</strong>
+    <strong>Software Developer | Backend Enthusiast | Open Source Creator</strong>
   </p>
   <p>
     <a href="https://www.octopy.dev" target="_blank">
