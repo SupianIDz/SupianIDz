@@ -16,7 +16,11 @@ I’m a software developer passionate about crafting clean, maintainable, and pr
 
 Currently, my main exploration revolves around Go and creating robust ecosystem tools.
 
-## 🚀 What I'm Building
+## 🚀 Current Work & Open Source
+
+### 🏛️ Government e-Procurement Marketplace (@SIOPENHSS)
+I am currently developing an official marketplace platform that bridges **MSMEs & Cooperatives (UMKK)** with **Government Procurement** (*Pengadaan Barang & Jasa*). This involves building complex B2G (Business-to-Government) transaction flows, handling secure data, and designing a scalable backend to support regional economic growth.
+*(Note: Codebases are private due to government confidentiality).*
 
 ### 🐙 Tako Framework
 I built **Tako** to solve a specific problem: bringing the elegant, modern Developer Experience of web frameworks into the terminal. 
