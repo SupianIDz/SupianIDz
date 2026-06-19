@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">👋 Hi, I'm Supian M</h1>
   <p>
-    <strong>Backend Developer | System Architect | Open Source Maintainer</strong>
+    <strong>Backend Developer | System Architect | Open Source Advocate</strong>
   </p>
   <p>
     <a href="https://www.octopy.dev" target="_blank">
@@ -12,39 +12,36 @@
 
 ---
 
-I’m a software developer who enjoys building clean, maintainable, and practical software. My main focus is **backend development**, **API design**, and **system architecture**, with a strong emphasis on long-term maintainability and developer experience (DX). 
+I’m a software developer passionate about crafting clean, maintainable, and practical software. I constantly explore better ways to design system architectures, focusing heavily on long-term maintainability and providing an excellent Developer Experience (DX). 
 
-Currently, I am heavily focused on developing the **Tako Framework**.
+Currently, my main exploration revolves around Go and creating robust ecosystem tools.
 
 ## 🚀 What I'm Building
 
 ### 🐙 Tako Framework
-I am the creator and lead developer of **Tako**, a comprehensive Go framework for building structured, robust, and beautiful **TUI (Text User Interface)** applications. Inspired by modern application architecture, it brings concepts like Dependency Injection (IoC), Routing, Event Buses, and State Management to the terminal ecosystem. Tako is a proud part of the Octopy ID family, housed in its own dedicated space.
+I built **Tako** to solve a specific problem: bringing the elegant, modern Developer Experience of web frameworks into the terminal. 
+
+It is a comprehensive Go framework for building structured and beautiful **TUI (Text User Interface)** applications. By introducing concepts like Dependency Injection (IoC), Routing, Event-Driven architecture, and State Management to the terminal ecosystem, Tako makes building complex CLI applications much more scalable and enjoyable.
 
 - 🌐 **Website:** [gettako.dev](https://gettako.dev/)
 - 💻 **GitHub:** [@gettako](https://github.com/gettako)
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Core Competencies
 
-**Core Competencies:**
-- ⚙️ **Backend Development & API Design**
-- 🏛️ **System Architecture & Code Organization**
-- 🚀 **Performance, Scalability & Reliability**
-- ✨ **Developer Experience (DX) & Clean Code**
+I advocate for clean code and enjoy refining complex systems into simpler, more readable structures. 
 
-**Infrastructure & Operations:**
-- 🐧 **Linux & Server Administration** (Debian/Ubuntu)
-- 🔧 Server setup, configuration, optimization, and maintenance
-
-> *I enjoy refining systems to make them simpler, more readable, and easier to evolve.*
+- ⚙️ **Backend & API Design:** Designing scalable, RESTful services and well-structured codebases.
+- 🏛️ **System Architecture:** Exploring IoC, Manager patterns, and modular application design.
+- 🚀 **Performance & Reliability:** Ensuring systems operate efficiently under load.
+- 🐧 **Infrastructure & Linux:** Debian/Ubuntu server setup, optimization, and routine maintenance.
 
 ---
 
 ## 🧭 My GitHub Ecosystem
 
-To keep my work structured, I maintain a few distinct spaces on GitHub:
+To keep my work structured and easily navigable, I maintain a few distinct spaces on GitHub:
 
 - 🧑‍💻 **[@SupianIDz](https://github.com/SupianIDz)** — My personal space for experiments, learning projects, and casual ideas.
 - 🏢 **[@OctopyID](https://github.com/OctopyID)** — My primary brand and open-source organization for the past 10+ years. It is home to my structured, reusable, and community-oriented projects.
@@ -54,9 +51,9 @@ To keep my work structured, I maintain a few distinct spaces on GitHub:
 
 ## 💼 Work Status
 
-- ✅ **Open to work** (remote / on-site / contract)
+- ✅ **Open to work** (Remote / On-site / Contract)
 
-If you’re interested in collaboration or work opportunities, feel free to reach out via GitHub or [my website](https://octopy.dev).
+If you’re interested in collaborating, discussing system architecture, or work opportunities, feel free to reach out via GitHub or [my website](https://www.octopy.dev).
 
 ---
 
