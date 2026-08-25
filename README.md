@@ -68,6 +68,20 @@ If you’re interested in collaborating, discussing system architecture, or work
 
 ---
 
+```
+    ┌──────────────────────────┐
+    │  Git commit -m "fix bug" │
+    │  Created: 42 new bugs    │
+    └─────────────┬────────────┘
+                  │
+             ( × _ × )   <-- Senior Dev
+             <)     )╯
+              /     \
+    
+    [ Missing semicolon on line 342 ]
+```
+
+
 <div align="center">
   <i>“Good code is not just written — it’s designed, operated, and maintained.”</i>
 </div>
